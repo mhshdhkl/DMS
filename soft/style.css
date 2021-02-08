@@ -1,0 +1,40 @@
+body{
+   
+    background-image: url("1.jpg");
+}
+
+.myclass{
+    background-color: darkslategray;
+   
+   
+    
+}
+.sidebar{
+    background:cadetblue;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    /* position: fixed; */
+ 
+    width: 80%;
+    height: 90%;
+    float: none;
+    text-align:center;
+    float: right;
+    opacity: 0.75;
+    
+    
+}
+.sidebar:hover{
+    background-color: darkgray;
+}
+.button{
+    background: dimgrey;
+    margin-bottom: 3px;
+    
+}
+.container-fluid{
+    background: cornflowerblue; background-image: url("1.jpg");
+  
+}
+
